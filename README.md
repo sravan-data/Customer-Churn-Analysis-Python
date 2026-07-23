@@ -94,7 +94,7 @@ pip install pandas numpy matplotlib seaborn
 
 ### Run the Notebook
 
-Open **`Customer_Churn_Analysis.ipynb`** in Jupyter Notebook or JupyterLab and run all cells.
+Open **'Customer_Churn_Analysis.ipynb'** in Jupyter Notebook or JupyterLab and run all cells.
 
 The notebook will:
 
@@ -110,15 +110,15 @@ The notebook will:
 
 ### Customer Churn Dashboard
 
-![Customer Churn Dashboard](images/churn_dashboard.png)
+![Customer Churn Dashboard](churn_dashboard.png)
 
 ### Churn Boxplot Analysis
 
-![Churn Boxplots](images/churn_boxplots.png)
+![Churn Boxplots](churn_boxplots.png)
 
 ### Feature Correlation Heatmap
 
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](correlation_heatmap.png)
 
 ---
 
